@@ -53,4 +53,7 @@
 
 
 # 💡시연 영상
-<iframe width="1280" height="612" src="https://www.youtube.com/embed/7YHfGiI6sjc" title="화면 기록 2023 03 13 오후 3 17 12" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![시연 영상](https://img.youtube.com/vi/7YHfGiI6sjc/0.jpg)](https://youtu.be/7YHfGiI6sjc)
+
+# 💡노션 페이지
+[대규모 트래픽 연구소](https://www.notion.so/e5f437969114433ea90293fb8c2dadd1)
