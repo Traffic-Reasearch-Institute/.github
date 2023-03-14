@@ -49,8 +49,7 @@
 ***
 
 # 💡테스트 커버리지
-![image](https://user-images.githubusercontent.com/22368351/224925704-e51fdedf-ea5a-4b7d-a7cf-d7905a3a6698.png)
-
+![image (1)](https://user-images.githubusercontent.com/95980876/224950652-43b2cc17-e628-487b-82de-fa63c0de9072.png)
 
 # 💡시연 영상
 [![시연 영상](https://img.youtube.com/vi/7YHfGiI6sjc/0.jpg)](https://youtu.be/7YHfGiI6sjc)
